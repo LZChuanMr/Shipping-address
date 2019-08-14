@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/modifyAddre/modifyAddre",
+    "pages/newAddre/newAddre",
+    "pages/cleanOrder/cleanOrder",
+    "pages/chooseAddre/chooseAddre"
+   
+    
+  ],
+  "utils": [
+    "utils/utils/utils"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "拜托阿姨",
+    "navigationBarBackgroundColor": "#FFC800"
+  },
+
+  "sitemapLocation": "sitemap.json"
+}
